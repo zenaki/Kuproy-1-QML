@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>gmap.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>images/list.png</file>
+        <file>images/setting.png</file>
+        <file>pages/SwipeViewPage.qml</file>
+        <file>pages/TabBarPage.qml</file>
+        <file>gmap.html</file>
+        <file>gmap.js</file>
+    </qresource>
+</RCC>
